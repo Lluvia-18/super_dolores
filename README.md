@@ -4,8 +4,6 @@ Lluvia Villanueva
 
 SuperApp didáctica desarrollada en Flutter con TDD. Integra mensajería, monedero, comercio local, transporte, mini-apps, lealtad, analítica de retención, notificaciones éticas y sugerencias dentro de un mismo ecosistema.
 
-> Los saldos, viajes, compras y métricas son simulados con fines educativos. La aplicación no mueve dinero real ni presta servicios de transporte.
-
 
 ## Ronda 1 · Dominio de la SuperApp
 
